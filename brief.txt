@@ -1,0 +1,10 @@
+========
+Suppose a row of parking lot with n spots, one of them is empty and n-1 spots are occupied with cars.
+Only one operation is allowed: move one car from its position to the empty spot.
+========
+Scenario One  List Registration Number of all "Blue" color cars ?
+========
+Scenario Two  Find out Slot where " KA55 8888“ is parked ?
+========
+Scenario Three  List Slot Numbers of all "Blue" Color Cars ?
+========
